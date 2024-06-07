@@ -23,6 +23,12 @@ Desarrollar estrategias específicas para la ciudad de Nueva York para reducir a
 1. Iniciativas educativas y de inclusión para reducir sesgos raciales.
 2. Optimización de recursos policiales basados en patrones de actividad delictiva.
 
+## 🗂 Estructura de Archivos
+- **Limpieza/**: Contiene scripts y notebooks para la limpieza y preparación de datos.
+- **Modelos ML/**: Incluye los modelos de machine learning utilizados, como K-Means y el árbol de decisión.
+- **preguntas-negocio/**: Alberga los análisis y respuestas a preguntas clave de negocio basadas en los datos.
+- **Plan Estratégico Nueva York.pdf**: Documento con el plan estratégico detallado.
+
 ## 💻 Notebooks
 Los notebooks se trabajan en **Databricks**. Si no se usan en Databricks, asegúrese de iniciar una sesión de Spark.
 
