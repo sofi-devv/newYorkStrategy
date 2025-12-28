@@ -50,7 +50,3 @@ The project repository is organized into the following directories:
 ## VIII. Development Environment
 
 The Jupyter notebooks within this project are designed for execution in the **Databricks** environment. Should execution outside of Databricks be desired, it is imperative to explicitly initialize an Apache Spark session.
-
----
-
-Here's an illustrative image that captures the essence of a modern, data-driven approach to urban development and public safety.
